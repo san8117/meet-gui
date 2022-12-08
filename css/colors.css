@@ -1,0 +1,14 @@
+:root {
+    --cyan-100: #8FE3F9;
+    --cyan-400: #4D96A9; 
+    --cyan-400-transparent: rgba(77, 150, 168, 0.8); 
+
+    --purple-100: #D9B8FF; 
+    --purple-400: #855FB1; 
+
+    --gray-100: #FAFAFA; 
+    --gray-400: #87879D; 
+    --gray-900: #28283D; 
+
+    --white: #FFFFFF;
+}

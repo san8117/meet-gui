@@ -1,0 +1,38 @@
+.logo {
+    padding-block: 3rem;
+    display:flex;
+    justify-content: center;
+    margin-bottom: 0.375rem;
+}
+
+.hero-mobile__tablet {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.hero-mobile__tablet img {
+    width: 25.875rem;
+}
+
+.presentation {
+    padding-inline: 1.5rem;
+    text-align: center;
+}
+
+.presentation-buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.presentation-buttons a:first-child{
+    background: var(--cyan-400);
+}
+
+.presentation-buttons a:last-child{
+    width: 8.75rem;
+}

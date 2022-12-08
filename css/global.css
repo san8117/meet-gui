@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box; 
+    font-family: 'Red Hat Display', sans-serif;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+}
+
+header{
+    margin-bottom: 4rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    line-height: 2.75rem;
+    color: (--gray-900);
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    line-height: 2.25rem;
+    color: var(--gray-900);
+}
+
+p {
+    line-height: 1.625rem;
+    color: var(--gray-400)
+}
+
+a {
+    display: block ;
+    font-weight: 900;
+    line-height: 1.625rem;
+    text-decoration: none;
+    color: var(--white);
+    background: var(--purple-400);
+    padding-block: 1rem;
+    border-radius: 29px;
+    text-align: center;
+    width: 12rem;
+}
+
+strong {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--cyan-400);
+    letter-spacing: 4px;
+    line-height: 1.625rem;
+    margin-bottom: 1.5rem;
+}
+
+main {
+    text-align: center;
+}
